@@ -21,7 +21,8 @@ echo "$sequence"
 
 #complement sequence
 rc=`echo $sequence | rev | tr 'atcgATCG' 'tagcTAGC'`
-
+#complement sequence#
+rc=`echo $reverse | tr [A-Z] [a-z] | tr 'atcg' 'tagc'`
 echo "$rc"
 
 echo $name >$1.rc.txt
