@@ -24,6 +24,7 @@ echo "Length: $len"
 for (( i=$len; i>=0; i-- ))
 do
     reverse="$reverse${sequence:$i:1}"
+    reverse=$(echo $len | rev)
 done
 
 echo "$sequence
