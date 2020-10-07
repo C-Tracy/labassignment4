@@ -12,11 +12,6 @@ sequence=`grep -v ">" $1`
 
 echo "Name: $name"
 
-#calculate length of sequence
-len=${#sequence}
-
-echo "Length: $len" 
-
 echo "$sequence"
 
 #complement sequence
