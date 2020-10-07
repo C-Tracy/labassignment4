@@ -1,0 +1,7 @@
+##Sun Reflection for Lab 4##
+
+When I begin learning the Linux, I usually organized the commands and some samples which I learned from book or the internet to [Jian Shu] . It’s a kind of git hub, but most popular in Chinese people. In there, I can upload the commands, the samples which I did the projects and some reflections what do I learned. But now, I am learning the git hub and more international people use it, so it is more widely, effectively. And I will use it in the future.
+
+[Science moves forward by corroboration --when researchers verify others results. Science advances faster when people waste less time pursuing false leads.]So that I think non-reproducible research impacts computational biology / bioinformatics by increasing the challenge of standardization and tool development. In my field of study (i.e.,evolutionary and phylogenetic biology ), I would be concerting that I cannot reproduce an evolution of a kind of marine animals, so that produce the error of phylogeny tree.
+
+So I hope every researchers could post clearly their code logs, it would be helpful.
