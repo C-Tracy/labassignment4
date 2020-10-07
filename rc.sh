@@ -1,5 +1,11 @@
 #! /bin/sh
 
+if [ $# -lt 1 ] || [ $# -gt 1 ]
+then
+echo "Specify FASTA file to be used with this script."
+exit
+else
+
 #initialize variable
 reverse=""
 
